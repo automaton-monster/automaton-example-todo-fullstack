@@ -1,0 +1,6 @@
+.automaton/
+frontend/node_modules/
+frontend/dist/
+backend/__pycache__/
+backend/*.pyc
+backend/todos.data.json
